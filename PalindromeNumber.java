@@ -25,6 +25,4 @@ public class PalindromeNumber {
             System.out.println("No, "+num+ " is NOT a Palindrome number");
         }
     }
-    
-    
 }
